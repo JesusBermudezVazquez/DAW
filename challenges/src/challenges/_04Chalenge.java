@@ -1,4 +1,4 @@
-package retos;
+package challenges;
 
 // I IMPORT CLASS 'Scanner' TO BE ABLE TO ENTER DATA FROM THE KEYBOARD
 

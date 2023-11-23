@@ -1,4 +1,4 @@
-package retos;
+package challenges;
 
 public class _03Challenge {
 
