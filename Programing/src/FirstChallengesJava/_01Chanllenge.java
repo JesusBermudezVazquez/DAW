@@ -1,4 +1,4 @@
-package FirstChallengeJava;
+package FirstChallengesJava;
 
 public class _01Chanllenge {
 
