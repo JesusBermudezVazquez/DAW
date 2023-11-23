@@ -1,4 +1,4 @@
-package challenges;
+package FirstChallengeJava;
 
 public class _03Challenge {
 

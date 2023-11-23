@@ -1,4 +1,4 @@
-package challenges;
+package FirstChallengeJava;
 
 // I IMPORT CLASS 'Scanner' TO BE ABLE TO ENTER DATA FROM THE KEYBOARD
 
